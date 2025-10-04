@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ Builder of things | 🌱 Constantly learning<br>I'm a curious and creative mind who loves turning ideas into functional products. Whether it's coding, designing, or just tinkering with something new, I'm all in.<br><br>🔭 Currently working on: FitFusion — a fitness-focused project that predicts body types and tailors workout plans.<br>⚡ Fun fact: I'm probably the most productive procrastinator you’ll ever meet.<br>🧠 Always exploring: software engineering principles, UI/UX, and meaningful tech.<br><br>🧰 Languages & Tools I like:<br>JavaScript, Python, HTML/CSS<br><br>React, Node.js<br><br>Figma, Adobe Suite<br><br>Git & GitHub (obviously 😎)
+🛠️ Builder of things | 🌱 Constantly learning<br>I'm a curious and creative mind who loves turning ideas into functional products. Whether it's coding, designing, or just tinkering with something new, I'm all in.<br><br>🔭 Currently working on:Life and Future.<br>⚡ Fun fact: I'm probably the most productive procrastinator you’ll ever meet.<br>🧠 Always exploring: software engineering principles, UI/UX, and meaningful tech.<br><br>🧰 Languages & Tools I like:<br>JavaScript, Python, HTML/CSS<br><br>React, Node.js<br><br>Figma, Adobe Suite<br><br>Git & GitHub (obviously 😎)
 
 
 ## 🌐 Socials:
