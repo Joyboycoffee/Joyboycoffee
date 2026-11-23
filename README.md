@@ -1,6 +1,6 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" alt="Gourav Kumar. I co-founded Shimio and write pretty much all of its code. The rest of the time I'm soldering something to an ESP32 and then writing an app to talk to it." width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-now-dark.svg"><img src="assets/label-now-light.svg" alt="Now" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-now-dark.svg"><img src="assets/label-now-light.svg" alt="Now, currently building" width="100%"></picture>
 <a href="https://shimio.in"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-shimio-dark.svg"><img src="assets/row-shimio-light.svg" alt="Shimio: Shimla's bazaars, online" width="100%"></picture></a>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg"><img src="assets/rule-light.svg" alt="" width="100%"></picture>
 
@@ -24,6 +24,8 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-hi-dark.svg"><img src="assets/label-hi-light.svg" alt="Say hi" width="100%"></picture>
 
 <a href="https://instagram.com/go.ur.av"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-instagram-dark.svg"><img src="assets/link-instagram-light.svg" alt="Instagram @go.ur.av" width="19%"></picture></a>&nbsp;&nbsp;&nbsp;<a href="mailto:g.k.sroye@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg"><img src="assets/link-email-light.svg" alt="Email" width="13%"></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://shimio.in"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-shimio-dark.svg"><img src="assets/link-shimio-light.svg" alt="Shimio" width="14%"></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://buymeacoffee.com/go.ur.av"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-coffee-dark.svg"><img src="assets/link-coffee-light.svg" alt="Buy me a coffee" width="28%"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/signoff-dark.svg"><img src="assets/signoff-light.svg" alt="Thanks for scrolling this far" width="100%"></picture>
 
 <details>
 <summary>More links</summary>
