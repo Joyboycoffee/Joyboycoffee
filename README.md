@@ -23,16 +23,21 @@ Hey, I'm Gourav. I co-founded [Shimio](https://shimio.in) and write pretty much 
   <a href="https://github.com/Joyboycoffee/ESP32-BLE-WiFi-Remote"><img src="assets/card-remote.svg" alt="ESP32 BLE Wi-Fi Remote" width="49%"></a>
 </p>
 <p align="center">
-  <img src="assets/card-nfc.svg" alt="NFC Command Deck" width="49%">
-  <img src="assets/card-speedo.svg" alt="Sim racing speedometer" width="49%">
+  <a href="https://github.com/Joyboycoffee/NFC-Command-Deck"><img src="assets/card-nfc.svg" alt="NFC Command Deck" width="49%"></a>
+  <a href="https://github.com/Joyboycoffee/Sim-Racing-Speedometer"><img src="assets/card-speedo.svg" alt="Sim racing speedometer" width="49%"></a>
 </p>
 <p align="center">
-  <img src="assets/card-fans.svg" alt="PWM fan controller" width="49%">
-  <img src="assets/card-door.svg" alt="Door sensor" width="49%">
+  <a href="https://github.com/Joyboycoffee/ESP-Home-PWM-Fans"><img src="assets/card-fans.svg" alt="PWM fan controller" width="49%"></a>
+  <a href="https://github.com/Joyboycoffee/Door-Sensor"><img src="assets/card-door.svg" alt="Door sensor" width="49%"></a>
 </p>
 <p align="center">
-  <img src="assets/card-motion.svg" alt="Motion light" width="49%">
-  <img src="assets/card-wave-clock.svg" alt="Wave 525 desk clock" width="49%">
+  <a href="https://github.com/Joyboycoffee/ESP32-Motion-Light"><img src="assets/card-motion.svg" alt="Motion light" width="49%"></a>
+  <a href="https://github.com/Joyboycoffee/Desk-clock-for-Wave-525"><img src="assets/card-wave-clock.svg" alt="Wave 525 desk clock" width="49%"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Joyboycoffee/ESP32-C3-Gamepad-Bridge"><img src="assets/card-gamepad.svg" alt="Gamepad Bridge" width="49%"></a>
+  <a href="https://github.com/Joyboycoffee/Fan-RPM-Battery-Logger"><img src="assets/card-fanlog.svg" alt="Fan RPM Logger" width="49%"></a>
 </p>
 
 <img src="assets/sec-stack.svg" alt="What I build with" width="100%">
